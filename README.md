@@ -1,2 +1,3 @@
 # Rss
-Приложение позволяет просматривать RSS ленту.
+
+The application allows you to view an RSS feed.
